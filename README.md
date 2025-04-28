@@ -16,3 +16,7 @@ __Download Virtual Box:__ https://www.virtualbox.org/wiki/Downloads
 __Download VDI Image for VirtualBox__ [ubuntu 24.04](https://www.osboxes.org/ubuntu/)
 
 <hr>
+
+### Free Learning Reosources will be updated soon
+
+<hr>
