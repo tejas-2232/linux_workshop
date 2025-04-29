@@ -1,7 +1,7 @@
 # Information Systems Club presents a Workshop on Linux 
 ## Gain hands-on experience of installing Linux and using it to make your life easy
 
-__Speaker:__ Tejas Bachhav
+__Speaker:__ [Tejas Bachhav](https://www.linkedin.com/in/tejasbachhav/)
 
 __Presentation:__ [View/download](https://docs.google.com/presentation/d/1bkpE9YEKuplNh4BrAW0ERlRh7GI28I7AsTaTXDSLYNQ/edit?usp=sharing)
 
