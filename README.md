@@ -23,5 +23,6 @@ __Download VDI Image for VirtualBox__ [ubuntu 24.04](https://www.osboxes.org/ubu
 
 1. Intro to Linux - Beginners focused full video course => https://www.youtube.com/watch?v=sWbUDq4S6Y8&t=562s
 2. Learn Linux by doing - Quiz-based learning platform => https://linuxjourney.com/
-3. Linux Survival is a free tutorial designed to make it as easy as possible to learn Linux => https://linuxsurvival.com/linux-tutorial-introduction/ 
+3. Linux Survival is a free tutorial designed to make it as easy as possible to learn Linux => https://linuxsurvival.com/linux-tutorial-introduction/
+4. learning Linux command-line => https://linuxcommand.org/index.php 
 <hr>
